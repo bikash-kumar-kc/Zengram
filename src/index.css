@@ -1,0 +1,12 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;700&display=swap');
+
+html, body, #root {
+  background-color:#030712 ;
+  height: 100%;
+  color: white;
+  font-family: 'Ubuntu', sans-serif;
+  min-height: 100vh;
+ 
+}
+
